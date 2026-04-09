@@ -1,0 +1,20 @@
+{
+  "name": "candidatos-hompers",
+  "version": "1.0.0",
+  "private": true,
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build",
+    "clean": "rm -rf dist .parcel-cache"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "@parcel/config-default": "^2.13.3",
+    "process": "^0.11.10"
+  }
+}
