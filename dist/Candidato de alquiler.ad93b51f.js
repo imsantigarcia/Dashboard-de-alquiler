@@ -25632,6 +25632,28 @@ const data = {
             estado: "aprobado"
         },
         {
+            nombre: "Maria",
+            telefono: "722365742",
+            email: "garciaalgar1111@gmail.com",
+            personas: 2,
+            mascotas: false,
+            ingresosNetos: 2600,
+            contrato: "Fijo \u2014 Consultora RRHH + Profesor educaci\xf3n secundaria",
+            notas: "Dos profesionales con empleo estable. Ratio 32%, muy c\xf3moda. Poco desgaste.",
+            estado: "aprobado"
+        },
+        {
+            nombre: "Mariana Cardona",
+            telefono: "613787293",
+            email: "marianacar2002@gmail.com",
+            personas: 3,
+            mascotas: false,
+            ingresosNetos: 4000,
+            contrato: "Ambos indefinidos \u2014 Aux. administrativo autoescuela (desde 2024) + Camarero El Retiro Cambrils",
+            notas: "Viven con la madre. Ratio excelente (21%). Pareja joven con contratos estables.",
+            estado: "revisar"
+        },
+        {
             nombre: "Jordi Serra",
             telefono: "609716159",
             email: "serrallongos@gmail.com",
@@ -25935,6 +25957,18 @@ const data = {
             notas: "",
             estado: "descartado",
             motivoDescarte: "Mascota peque\xf1a + 4 personas"
+        },
+        {
+            nombre: "Tareq Alzabon",
+            telefono: "674419016",
+            email: "ta.zboun@gmail.com",
+            personas: 4,
+            mascotas: false,
+            ingresosNetos: 3800,
+            contrato: "Aut\xf3nomo \u2014 Formador internacional + tienda ropa Rambla Nova",
+            notas: "Familia con beb\xe9 de 1 mes + hija de 3 a\xf1os. Buenos ingresos pero dif\xedciles de verificar.",
+            estado: "descartado",
+            motivoDescarte: "4 personas + ingresos de aut\xf3nomo dif\xedciles de verificar"
         }
     ]
 };
